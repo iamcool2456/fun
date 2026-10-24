@@ -1,1 +1,11 @@
+# Generated server data
+/world/
+/logs/
+/crash-reports/
+/cache/
+
+# Runtime files
+*.log
+*.log.gz
+hs_err_pid*
 
